@@ -6,7 +6,7 @@
     {"id":{"name":"spr_brickwall","path":"sprites/spr_brickwall/spr_brickwall.yy",},"order":2,},
     {"id":{"name":"obj_humpty","path":"objects/obj_humpty/obj_humpty.yy",},"order":0,},
     {"id":{"name":"obj_brickwall","path":"objects/obj_brickwall/obj_brickwall.yy",},"order":1,},
-    {"id":{"name":"spr_idlehumpty","path":"sprites/spr_idlehumpty/spr_idlehumpty.yy",},"order":1,},
+    {"id":{"name":"spr_humpty_idle","path":"sprites/spr_humpty_idle/spr_humpty_idle.yy",},"order":1,},
     {"id":{"name":"spr_runninghumpty","path":"sprites/spr_runninghumpty/spr_runninghumpty.yy",},"order":3,},
     {"id":{"name":"spr_humpty","path":"sprites/spr_humpty/spr_humpty.yy",},"order":0,},
     {"id":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},"order":0,},
